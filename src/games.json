@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "image": "https://compass-ssl.xbox.com/assets/84/32/8432a0d9-36a8-48fb-b91c-d0d668106035.jpg?n=GoW4-MWF_GLP-Hero-0_1084x1084.jpg", 
+      "nome": "Gears of War 4",
+      "nota": "8.6 / 10.0",
+      "descricao": "Gears of War 4 é um jogo de tiro em terceira pessoa produzido pelo estúdio canadense The Coalition.",
+      "link": "https://www.youtube.com/watch?v=9U0MQg_mUeU"
+    },
+    
+    {
+        "id": 2,
+        "image": "https://http2.mlstatic.com/crash-team-racing-nitro-fueled-original-1-envio-ja-D_NQ_NP_878919-MLB31134241282_062019-F.jpg", 
+        "nome": "Crash Team Racing Nitro-Fueled",
+        "nota": "8.4 / 10.0",
+        "descricao": "Jogo de corrida de karts, desenvolvido pela Beenox e publicado pela Activision",
+        "link": "https://www.youtube.com/watch?v=POSA6emz95M"
+    },
+
+    {
+        "id": 3,
+        "image": "https://hb.imgix.net/9fde24e81a4fc97ff441847fc690673946efd9b9.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5d97bc98f0bc5d75eaf29fa8d04b686a", 
+        "nome": "Battle Chasers: NightWar",
+        "nota": "8.0 / 10.0",
+        "descricao": "Battle Chasers: Nightwar é um RPG baseado em turnos desenvolvido pela Airship Syndicate e publicado pela THQ Nordic.",
+        "link": "https://www.youtube.com/watch?v=68HTLnKqjkY"
+    },
+
+    {
+        "id": 4,
+        "image": "https://images.g2a.com/newlayout/323x433/1x1x0/06114476276e/59108976ae653aa55c6ac1f2", 
+        "nome": "The Witcher 3",
+        "nota": "9.3 / 10.0",
+        "descricao": "The Witcher 3: Wild Hunt é um jogo eletrônico de ação do subgênero RPG desenvolvido pela CD Projekt RED",
+        "link": "https://www.youtube.com/watch?v=VpevTNRK-_M"
+    },
+
+    {
+        "id": 5,
+        "image": "data:image/jpeg;base64,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", 
+        "nome": "The Evil Within 2",
+        "nota": "8.0 / 10.0",
+        "descricao": "The Evil Within 2 é um jogo de terror e sobrevivência em terceira pessoa desenvolvido pela Tango Gameworks e publicado pela Bethesda Softworks",
+        "link": "https://www.youtube.com/watch?v=_TsX9nuk7Uk"
+    },
+
+    {
+        "id": 6,
+        "image": "https://cdn-cf.gamivo.com/image_cover.jpg?f=325&n=dc707f90-784b-11e7-8203-abacaa3272cd.jpg&h=c4c2953f1b1a890daeaabcc293c7fa05", 
+        "nome": "Dark Souls III",
+        "nota": "8.9 / 10.0",
+        "descricao": "Dark Souls III, é um jogo do género role-playing game de ação, o quarto da série Souls, desenvolvido pela From Software",
+        "link": "https://www.youtube.com/watch?v=b6MXWZ4mheo"
+    }, 
+
+    {
+        "id": 7,
+        "image": "https://i1.wp.com/thelootgaming.com/wp-content/uploads/bloodborne.png?fit=780%2C439&ssl=1", 
+        "nome": "Bloodborne",
+        "nota": "9.2 / 10.0",
+        "descricao": "Bloodborne é um jogo eletrônico de ação-aventura produzido pela From Software e publicado pela Sony Computer Entertainment",
+        "link": "https://www.youtube.com/watch?v=X1iKYjVFigM"
+    },
+
+    {
+        "id": 8,
+        "image": "https://s1.gaming-cdn.com/images/products/2670/orig/devil-may-cry-5-cover.jpg", 
+        "nome": "Devil May Cry 5",
+        "nota": "8.8 / 10.0",
+        "descricao": "Devil May Cry 5 é um jogo eletrônico de ação-aventura hack and slash desenvolvido e publicado pela Capcom.",
+        "link": "https://www.youtube.com/watch?v=teMfDQrgQXA"
+    },
+
+    {
+        "id": 9,
+        "image": "https://pbs.twimg.com/media/DfdXBJyU0AA4rFK.jpg", 
+        "nome": "Resident Evil 2 Remake",
+        "nota": "9.1 / 10.0",
+        "descricao": "Resident Evil 2 é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom, sendo um remake do jogo original de 1998.",
+        "link": "https://www.youtube.com/watch?v=2CenaMdSVRA"
+    }, 
+
+    {
+        "id": 10,
+        "image": "https://i.ytimg.com/vi/MwCw2vj3XO8/maxresdefault.jpg", 
+        "nome": "Uncharted 4: A Thief's End",
+        "nota": "9.3 / 10.0",
+        "descricao": "Uncharted 4: A Thief's End é um jogo eletrônico de acção-aventura produzido pela Naughty Dog.",
+        "link": "https://www.youtube.com/watch?v=6cXyQg_5uoc"
+    }
+
+]    

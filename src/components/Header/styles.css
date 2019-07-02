@@ -1,0 +1,46 @@
+.navbar {
+    margin-bottom: 60px;
+    height: 50px;        
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #7869FF;
+    color: #ffffff;    
+}
+
+.areaBusca button {
+    background: transparent;
+    width: 30px;
+    height: 30px;
+}
+
+.areaBusca input {
+    border: 2px solid rgb(77, 66, 172);
+    box-sizing: border-box;
+    border-radius: 15px;
+    width: 400px;
+    height: 30px;
+    color: #2d3142;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.joystick {
+    transform: rotate(30deg);
+    width: 30px;
+}
+
+.lupa {
+    width: 20px;
+}
+
+.socialmedia img {
+    width: 40px;
+    margin: 2px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #ffffff;
+}
